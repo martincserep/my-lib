@@ -1,0 +1,15 @@
+{
+  "name": "@martincserep/my-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^10.1.5",
+    "@angular/core": "^10.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/martincserep/my-lib.git"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
